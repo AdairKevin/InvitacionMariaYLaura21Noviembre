@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quintessential&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap");
+
+:root {
+  --gold-gradient: linear-gradient(120deg, #f67a7a, #ee0000, #001faa, #436fff);
+  --rose: #e00000;
+  --rose-main: #001faa;
+  --rose-light: #ffffff;
+  --gold-elegant: #e00000;
+  --gray-pearl: #8f8a86;
+  --ivory-paper: #f7f3eb;
+
+  --bg-section-light: #eafeff;
+  --bg-section-dark: #2c2c2c;
+
+  --bg-gradient: linear-gradient(
+    131deg,
+    #f1d9dd -3.63%,
+    #ff001e 60.5%,
+    #001c97 100.94%
+  );
+  --font-titulos: "Playfair Display", serif;
+  --font-subtitulos: "Great Vibes", cursive;
+  --font-texto: "PT Serif", serif;
+
+  --img-photo-home: url(../img/Photo-home.webp);
+  --img-F1: url(../img/c1.jpeg);
+  --img-F2: url(../img/c2.jpeg);
+  --img-F3: url(../img/c3.jpeg);
+  --img-F4: url(../img/portada.jpeg);
+  --img-F5: url(../img/c2.jpeg);
+
+  --img-overlay-stain-1: url(../img/stain-1.svg);
+  --img-overlay-stain-2: url(../img/stain-2.svg);
+
+  --img-overlay-points-1: url(../img/points-2.svg);
+  --img-overlay-points-2: url(../img/points-2.svg);
+  --img-overlay-leaf-1: url(../assets/img/);
+  --img-overlay-leaf-2: url(../img/leaf-2.svg);
+  --img-overlay-leaf-3: url(../img/leaf-3.svg);
+}
